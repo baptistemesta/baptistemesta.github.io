@@ -1,0 +1,12 @@
+# Site settings
+title: Baptiste's blog
+email: baptiste.mesta@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Dev stuff
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.baptiste.co" # the base hostname & protocol for your site
+twitter_username: baptistemesta
+github_username:  baptistemesta
+
+# Build settings
+markdown: kramdown
